@@ -1,2 +1,2 @@
 # coursera.version.control
-My First GitHub Learning Experience
+My First Git/GitHub Learning Experience
