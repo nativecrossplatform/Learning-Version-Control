@@ -1,5 +1,7 @@
 # Git & GitHub Cheatsheet
 
+File Tagged As A Bash File Just To Indicate Nature Of Commands Here.
+
 ## General Commands
 - **Initialize Repository:** `git init`
 - **Check Repository Status:** `git status`
